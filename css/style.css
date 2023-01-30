@@ -44,6 +44,17 @@ main, footer {
     padding-top: 15px;
 }
 
+th {
+    background-color: #63B8FF;
+    color: white;
+    text-align: left;
+    width: 280px;
+}
+
+.colourate_tr {
+    background-color: #A4D3EE;
+}
+
 footer {
     padding-top: 30px;
 }
