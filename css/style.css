@@ -27,10 +27,14 @@ main, footer {
     color: grey;
 }
 
-main span {
+.first_section span {
     color: #5CACEE;
 }
 
-.second_section figure {
+.second_section figure, .third_section p {
     padding-top: 15px;
+}
+
+.third_section span {
+    background-color: yellow;
 }
