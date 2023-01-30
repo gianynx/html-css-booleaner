@@ -12,3 +12,11 @@
     height: 120px;
     padding: 10px 10px;
 }
+
+.notes, .when {
+    color: grey;
+}
+
+main span {
+    color: #5CACEE;
+}
