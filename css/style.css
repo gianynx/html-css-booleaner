@@ -23,7 +23,7 @@ main, footer {
     padding: 10px 10px;
 }
 
-.notes, .when {
+.notes, .when, h3 {
     color: grey;
 }
 
@@ -42,4 +42,36 @@ main, footer {
 .third_section ul {
     margin-left: 15px;
     padding-top: 15px;
+}
+
+footer {
+    padding-top: 30px;
+}
+
+.first_image_footer {
+  background-image: url(../img/monitor.jpg);
+  width: 250px;
+  height: 150px;
+  margin-top: 10px;
+}
+
+.first_image_footer, .second_image_footer > h3 {
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.first_image_footer > h3 {
+    color: white;
+}
+
+.second_image_footer > h3 {
+    color: white;
+}
+
+.second_image_footer {
+  background-image: url(../img/graph.jpg);
+  width: 260px;
+  height: 150px;
+  margin-top: 10px;
+  margin-bottom: 30px;
 }
