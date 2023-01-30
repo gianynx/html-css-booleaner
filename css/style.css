@@ -4,4 +4,11 @@
     background-image: url(../img/pattern.png);
     background-size: contain;
     background-color: #5CACEE;
+    background-position: top;
+}
+
+#logo {
+    width: 200px;
+    height: 120px;
+    padding: 10px 10px;
 }
