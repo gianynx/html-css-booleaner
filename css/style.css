@@ -31,10 +31,15 @@ main, footer {
     color: #5CACEE;
 }
 
-.second_section figure, .third_section p {
+.second_section figure, .third_section p, table {
     padding-top: 15px;
 }
 
 .third_section span {
     background-color: yellow;
+}
+
+.third_section ul {
+    margin-left: 15px;
+    padding-top: 15px;
 }
