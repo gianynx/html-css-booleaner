@@ -29,6 +29,10 @@ main, footer {
     padding-left: 5px;
 }
 
+.first_section > h1 {
+    font-size: 52px;
+}
+
 .notes, .when, h3 {
     color: grey;
 }
