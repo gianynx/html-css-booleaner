@@ -49,6 +49,10 @@ main, footer {
     background-color: yellow;
 }
 
+table {
+    border-spacing: 0;
+}
+
 .main_section ul {
     margin-left: 15px;
     padding-top: 15px;
