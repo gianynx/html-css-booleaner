@@ -1,13 +1,17 @@
+/*CSS general*/
+
 * {
     margin: 0;
     padding: 0;
 }
 
-.background_header {
+/*CSS header*/
+
+.background_header {   /*POTEVO USARE LA SHORTHAND*/
     width: 100%;
     height: 100px;
     background-image: url(../img/pattern.png);
-    background-size: contain;
+    background-size: contain;   /*POTEVO METTERE IL % - 23%*/
     background-color: #5CACEE;
     background-position: top;
 }
@@ -17,6 +21,8 @@
     height: 120px;
     padding: 10px 10px;
 }
+
+/*CSS main*/
 
 main, footer {
     padding-top: 10px;
@@ -51,7 +57,7 @@ th {
     width: 280px;
 }
 
-.colourate_tr {
+.coloured_tr {
     background-color: #A4D3EE;
 }
 
