@@ -29,7 +29,7 @@ main, footer {
     padding-left: 5px;
 }
 
-.first_section > h1 {
+.title_section > h1 {
     font-size: 52px;
 }
 
@@ -37,19 +37,19 @@ main, footer {
     color: grey;
 }
 
-.first_section span {
+.title_section span {
     color: #5CACEE;
 }
 
-.second_section figure, .third_section p, table {
+.image_section figure, .main_section p, table {
     padding-top: 15px;
 }
 
-.third_section span {
+.main_section span {
     background-color: yellow;
 }
 
-.third_section ul {
+.main_section ul {
     margin-left: 15px;
     padding-top: 15px;
 }
